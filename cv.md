@@ -48,4 +48,22 @@ function RGBCalculation(valueColor) {
     ? valueColor / 12.92
     : Math.pow((valueColor + 0.055) / 1.055, 2.4);
 }
+
+function selectingTextColor(colorBg) {
+  const brightnessColor = brightnessCalculation(colorBg);
+  const contrastWhite = (1.05 / (+brightnessColor + 0.05)).toFixed(1);
+  return +contrastWhite < 4.5 ? "#000000" : "#FFFFFF";
+}
 ```
+
+# Education
+
+I was doing self-study.
+
+- HTML and CSS - [https://code.mu/ru/markup/book/prime/](book by Dmitry Trepachev) (about 80 sections)
+- JavaScript - [https://learn.javascript.ru/](modern JavaScript tutorial on the site learn.javascript) (before paragraph 5.7, in the process)
+- Practics by video tutorials [https://www.youtube.com/watch?v=OaNICHKM5KM&t=1s](colorProject from Minin Vladilen), [https://www.youtube.com/watch?v=Bluxbh9CaQ0](JavaScript Basics for Beginners) and the like
+
+# English language
+
+The level of English is A0, I studied on my own according to the playlist - [https://www.youtube.com/watch?v=QbSrhuSNOnI&list=PLD6SPjEPomatGovrtQFb84p3LJtoeUEoS](English from scratch in 50 lessons A0)
