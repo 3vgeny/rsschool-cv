@@ -60,10 +60,10 @@ function selectingTextColor(colorBg) {
 
 I was doing self-study.
 
-- HTML and CSS - [https://code.mu/ru/markup/book/prime/](book by Dmitry Trepachev) (about 80 sections)
-- JavaScript - [https://learn.javascript.ru/](modern JavaScript tutorial on the site learn.javascript) (before paragraph 5.7, in the process)
-- Practics by video tutorials [https://www.youtube.com/watch?v=OaNICHKM5KM&t=1s](colorProject from Minin Vladilen), [https://www.youtube.com/watch?v=Bluxbh9CaQ0](JavaScript Basics for Beginners) and the like
+- HTML and CSS - [book by Dmitry Trepachev](https://code.mu/ru/markup/book/prime/) (about 80 sections)
+- JavaScript - [modern JavaScript tutorial on the site learn.javascript](https://learn.javascript.ru/) (before paragraph 5.7, in the process)
+- Practics by video tutorials [colorProject from Minin Vladilen](https://www.youtube.com/watch?v=OaNICHKM5KM&t=1s), [JavaScript Basics for Beginners](https://www.youtube.com/watch?v=Bluxbh9CaQ0) and the like
 
 # English language
 
-The level of English is A0, I studied on my own according to the playlist - [https://www.youtube.com/watch?v=QbSrhuSNOnI&list=PLD6SPjEPomatGovrtQFb84p3LJtoeUEoS](English from scratch in 50 lessons A0)
+The level of English is A0, I studied on my own according to the playlist - [English from scratch in 50 lessons A0](https://www.youtube.com/watch?v=QbSrhuSNOnI&list=PLD6SPjEPomatGovrtQFb84p3LJtoeUEoS)
